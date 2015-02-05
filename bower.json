@@ -1,0 +1,17 @@
+{
+  "name": "httpd.js",
+  "main": "httpd.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/p2p-web/httpd.js",
+  "authors": [
+    "Wilson Page <wilsonpage@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
